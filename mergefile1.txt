@@ -1,6 +1,6 @@
-file 1 to merge
+file 1 to merged
 
-tesd
+test
 
 bra
 
